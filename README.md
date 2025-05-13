@@ -7,6 +7,7 @@
 4. мозг
 5. лазерный прицел VL53LOX-02
 
+![image](https://github.com/user-attachments/assets/f9700269-7037-46fb-b4ec-923d53d3466f)
 
 
 ## Состояния
